@@ -84,3 +84,4 @@ After launching with `streamlit run dashboard.py`, the dashboard provides:
 - **Part 2** — Searchable, sortable frequency table with population filters
 - **Part 3** — Interactive Plotly boxplots and a statistical results table with significance highlighting
 - **Part 4** — Summary metrics, bar/pie charts for project, response, and sex breakdowns, plus a raw data explorer
+- (Extra) - An interactive cell count explorer to calculate cell count metrics for any cell type with filters for all of the columns in the dataframe.
